@@ -25,5 +25,3 @@ When I'm not programming, I love playing the electric guitar, engaging in sports
 
 ## 📫 Contact
 - **Email:** [igor.polischuk@sysgears.com](mailto:igor.polischuk@sysgears.com)
-- **LinkedIn:** [Me on LinkedIn](https://www.linkedin.com/in/igor-polischuk-626245259/)
-- **GitHub:** [My GitHub](https://github.com/Igor-Polischuk)
